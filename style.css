@@ -1,0 +1,33 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.bgimage{
+  background-image: url('tt.jpg');
+  background-size: 100% 110%;
+  width:100%;
+  height:100%;
+}
+
+.menu{
+  
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,2,0.5);
+}
+
+.leftmenu{
+  width:70%;
+  line-height: 100px;
+  float:left;
+  
+}
+
+.leftmenu h4{
+  padding-left: 70px;
+  font-weight: bold;
+  color:white;
+  font-size:22px
+  font-family:'Montserrat', sans-serif;
+}
